@@ -1,0 +1,7 @@
+[book]
+authors = ["k5924"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Kamrans Portfolio"
+description = "This book represents my portfolio which can easily be updated in the future"
